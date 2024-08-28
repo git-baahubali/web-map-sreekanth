@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.headerr{
+font-weight: bold;
+ /* margin:  auto 20px; */
+ color: #3a3f4a;
+ box-shadow: #3a3f4a;
+}
+.headerr:hover{
+font-weight: bold;
+color: black;
+/* background-color: #282c34; */
+text-decoration: underline;
+}

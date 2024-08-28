@@ -1,0 +1,14 @@
+
+.sidebar{
+    color: black;
+    padding: auto;
+    
+}
+
+.heading{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline ;
+    text-underline-offset: 1px;
+    padding: 0.25rem 01rem; 
+}
